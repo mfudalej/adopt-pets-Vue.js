@@ -1,4 +1,6 @@
-# adopt-pets
+# adopt-pets - Vue.js traning
+
+live: https://adopt-pets-vue-js.onrender.com/
 
 ## Project setup
 ```
